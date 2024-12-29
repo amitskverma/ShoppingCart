@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZTDuHuG+7bw=",
+  "dgSpecHash": "ZG69tksB+sk=",
   "success": true,
   "projectFilePath": "/Users/amitverma/Documents/Coding/ShoppingCart/ShoppingCart.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/amitverma/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/amitverma/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/amitverma/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
