@@ -4,12 +4,12 @@
     "/Users/amitverma/Documents/Coding/ShoppingCart/ShoppingCart.csproj": {}
   },
   "projects": {
-    "/Users/amitverma/Documents/Coding/ShoppingCart/ShoppingCart.csproj": {
+    "/Users/amitverma/Documents/Coding/ShoppingCart/CoustmerNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amitverma/Documents/Coding/ShoppingCart/ShoppingCart.csproj",
-        "projectName": "ShoppingCart",
-        "projectPath": "/Users/amitverma/Documents/Coding/ShoppingCart/ShoppingCart.csproj",
+        "projectUniqueName": "/Users/amitverma/Documents/Coding/ShoppingCart/CoustmerNumber.csproj",
+        "projectName": "CoustmerNumber",
+        "projectPath": "/Users/amitverma/Documents/Coding/ShoppingCart/CoustmerNumber.csproj",
         "packagesPath": "/Users/amitverma/.nuget/packages/",
         "outputPath": "/Users/amitverma/Documents/Coding/ShoppingCart/obj/",
         "projectStyle": "PackageReference",
@@ -38,7 +38,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -54,12 +55,104 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/amitverma/Documents/Coding/ShoppingCart/ShoppingCart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amitverma/Documents/Coding/ShoppingCart/ShoppingCart.csproj",
+        "projectName": "ShoppingCart",
+        "projectPath": "/Users/amitverma/Documents/Coding/ShoppingCart/ShoppingCart.csproj",
+        "packagesPath": "/Users/amitverma/.nuget/packages/",
+        "outputPath": "/Users/amitverma/Documents/Coding/ShoppingCart/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amitverma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/amitverma/Documents/Coding/ShoppingCart/CoustmerNumber.csproj": {
+                "projectPath": "/Users/amitverma/Documents/Coding/ShoppingCart/CoustmerNumber.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

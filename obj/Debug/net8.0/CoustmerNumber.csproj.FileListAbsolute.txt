@@ -1,0 +1,15 @@
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/CoustmerNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/CoustmerNumber.AssemblyInfoInputs.cache
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/CoustmerNumber.AssemblyInfo.cs
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/CoustmerNumber.csproj.CoreCompileInputs.cache
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/CoustmerNumber.sourcelink.json
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/CoustmerNumber.dll
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/refint/CoustmerNumber.dll
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/CoustmerNumber.pdb
+/Users/amitverma/Documents/Coding/ShoppingCart/bin/Debug/net8.0/CoustmerNumber
+/Users/amitverma/Documents/Coding/ShoppingCart/bin/Debug/net8.0/CoustmerNumber.deps.json
+/Users/amitverma/Documents/Coding/ShoppingCart/bin/Debug/net8.0/CoustmerNumber.runtimeconfig.json
+/Users/amitverma/Documents/Coding/ShoppingCart/bin/Debug/net8.0/CoustmerNumber.dll
+/Users/amitverma/Documents/Coding/ShoppingCart/bin/Debug/net8.0/CoustmerNumber.pdb
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/CoustmerNumber.genruntimeconfig.cache
+/Users/amitverma/Documents/Coding/ShoppingCart/obj/Debug/net8.0/ref/CoustmerNumber.dll
